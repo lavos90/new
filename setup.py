@@ -1,5 +1,24 @@
 from setuptools import setup, find_packages
- 
+import os
+import re
+import codecs
+
+NAME='new'
+META_PATH=os.path.join('new','__init__.py')
+REQUIREMENTS=[]
+CLASSIFIERS=[
+    'Development Status :: 5 - Production/Stable',
+    'Intended Audience :: Developers',
+    'Natural Language :: English',
+    'License :: OSI Approved :: MIT License',
+    'Operating System :: OS Independent',
+    'Programing Language :: Python',
+]
+HERE=os.path.abspath(os.path.dirname(__file__))
+
+
+
+
 if __name__=='__main__':
     setup(
         name='new',
@@ -13,12 +32,7 @@ if __name__=='__main__':
         packages=find_packages(),
         zip_safe=False,
         install_requires=[],
-        classifiers=['Development Status :: 5 - Production/Stable',
-        'Intended Audience :: Developers',
-        'Natural Language :: English',
-        'License :: OSI Approved :: MIT License',
-        'Operating System :: OS Independent',
-        'Programing Language :: Python',
+        classifiers=[,
         ]
         )
 
