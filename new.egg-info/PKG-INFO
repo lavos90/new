@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: new
+Version: 0.0.1
+Summary: esto es un trabajo new
+Home-page: https://github.com/lavos90/new.git
+Author: yadnier
+Author-email: yadnierc@gmail.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programing Language :: Python
+License-File: LICENSE
+
+# new

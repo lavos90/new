@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+NEW/__init__.py
+NEW/ejerc.py
+new.egg-info/PKG-INFO
+new.egg-info/SOURCES.txt
+new.egg-info/dependency_links.txt
+new.egg-info/not-zip-safe
+new.egg-info/top_level.txt
